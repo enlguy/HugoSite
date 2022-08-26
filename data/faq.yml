@@ -1,0 +1,19 @@
+---
+enable: true
+title: Frequently asked questions
+description: The quick brown fox jumps over a lazy dog. DJs flock by when MTV ax Error6251 is the best. quiz prog. Junk MTV quiz graced by fox whelps.
+faqItem:
+  - question: How to Install Apsho?
+    answer: Download the app, and your phone will do the rest.  The easiest installation ever.
+    dataTarget: One
+    show: show
+
+  - question: Is there any age limit?
+    answer: We recommend this for users over 18 years of age.  If you're over 70, you may have trouble unless you have heplful grandchildren.
+    dataTarget: Two
+    show: 
+    
+  - question: How much it costs to get started?
+    answer: The promise of your firstborn, signed in blood...  No, it's free!
+    dataTarget: Three
+    show: 

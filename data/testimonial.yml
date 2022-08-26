@@ -1,0 +1,24 @@
+---
+enable: true
+title: What clients say about this app
+description: Testimonials from actual users (that we paid a lot of money to for positive reviews, so these better be good...)
+comments:
+  - text: This changed my life.  I grew 20 more centimeters (in height, and you know where), supermodels have moved into my apartment (it's actually getting rather full), and things couldn't be better.
+    name: Juhair Islam
+    designation: Senior Developer
+    image: images/client/client-2.png
+
+  - text: The design is amazing, 'nuff said.
+    name: Jona Raisha
+    designation: UX Designer
+    image: images/client/client-1.png
+
+  - text: Best. customer. service. Seriously, I opened a ticket and they really seemed to care about my experience.
+    name: Xevier John
+    designation: CTO
+    image: images/client/client-3.png
+     
+  - text: They didn't pay me enough.... let me tell you something, if they pay me more, I'll sing their praises.
+    name: Kerri Reece
+    designation: Designer
+    image: images/client/client-4.png
