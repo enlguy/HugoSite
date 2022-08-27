@@ -1,7 +1,7 @@
 # MAIN base
 baseURL = "https://apsho-hugo.netlify.app/"
 languageCode = "en-us"
-title = "Apsho | App landing template"
+title = "Best AR Ever | App landing template"
 theme = "apsho-hugo-theme"
 
 # Navigation Bar
@@ -62,7 +62,7 @@ googleAnalytics = "UA-175025671-2"
 # Footer
 footerTitle = "Get the latest app updates"
 copyright1 = "All right reserved"
-copyright2 = "Copyright © Apsho {year}"
+copyright2 = "Copyright © Jack Epner {year}"
 
 #contact
 email = "help@staticmania.com"
